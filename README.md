@@ -23,12 +23,23 @@ Here are some ideas to get you started:
 ##
  ### Principais tecnologias utilizadas
  <div>
-  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=64&color=currentColor">
-  <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=64&color=currentColor">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor">
-  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=64&color=currentColor">
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=64&color=currentColor">
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
+   <div>
+      <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=64&color=currentColor">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/128px-Spring_Framework_Logo_2018.svg.png">
+   </div>
+   <div>
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/128px-Google-flutter-logo.svg.png">
+   </div>
+   <div>
+      <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=64&color=currentColor">
+      <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor">
+      <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=64&color=currentColor">
+      <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=64&color=currentColor">
+   </div>
+   <div>
+      <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
+   </div>
  </div>
 
  ##
