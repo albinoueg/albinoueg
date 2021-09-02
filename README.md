@@ -20,7 +20,18 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinoueg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-   ##
+##
+ ### Principais tecnologias utilizadas
+ <div>
+  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=64&color=currentColor">
+  <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=64&color=currentColor">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor">
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=64&color=currentColor">
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=64&color=currentColor">
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
+ </div>
+
+ ##
  
 <div>
   <a href="https://www.instagram.com/albinosistemas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
