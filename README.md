@@ -59,5 +59,5 @@ Here are some ideas to get you started:
  
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@a311d397-40ac-4315-9a1b-24caeb87ad6a)](https://github.com/anuraghazra/github-readme-stats)
  
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@a311d397-40ac-4315-9a1b-24caeb87ad6a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
